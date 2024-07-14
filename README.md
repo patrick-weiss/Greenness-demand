@@ -8,7 +8,7 @@ Please cite the paper as
 
 ```
 @article{greenness_demand,
-  title={Methodological uncertainty in portfolio sorts},
+  title={Greenness demand for {US} corporate bonds},
   author={Jankowitsch, Rainer and Pasler, Alexander and Weiss, Patrick and Zechner, Josef},
   journal={Available at SSRN 4885595},
   year={2024}
